@@ -7,7 +7,7 @@ require github.com/sagernet/sing-box v0.0.0
 replace github.com/sagernet/sing-box => ../
 
 require (
-	github.com/docker/docker v24.0.7+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/gofrs/uuid/v5 v5.0.0
 	github.com/sagernet/quic-go v0.0.0-20231008035953-32727fef9460
@@ -77,7 +77,7 @@ require (
 	github.com/sagernet/reality v0.0.0-20230406110435-ee17307e7691 // indirect
 	github.com/sagernet/sing-mux v0.1.4-0.20231102172319-a36b95857a9b // indirect
 	github.com/sagernet/sing-shadowtls v0.1.4 // indirect
-	github.com/sagernet/sing-tun v0.1.17-0.20231103030016-7f4ef65c32eb // indirect
+	github.com/sagernet/sing-tun v0.1.17-0.20231103103951-3540ea7680d8 // indirect
 	github.com/sagernet/sing-vmess v0.1.8 // indirect
 	github.com/sagernet/smux v0.0.0-20230312102458-337ec2a5af37 // indirect
 	github.com/sagernet/tfo-go v0.0.0-20230816093905-5a5c285d44a6 // indirect
